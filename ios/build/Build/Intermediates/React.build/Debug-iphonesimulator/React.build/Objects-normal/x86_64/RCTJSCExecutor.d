@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/nickkotowski/Desktop/Work/Projects/own_app/node_modules/react-native/React/Base/RCTUtils.h
