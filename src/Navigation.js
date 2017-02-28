@@ -12,7 +12,7 @@ const NavComponent = () => {
     <Router>
       <Scene
         key="start"
-        title="Start"
+        title="Well, hello there :)"
         component={StartScreen}
         initial
       />
