@@ -5,6 +5,7 @@ import NavigationScreen from './components/NavigationScreen';
 import ReduxScreen from './components/ReduxScreen';
 import AnimationScreen from './components/AnimationScreen';
 import ActivityScreen from './components/ActivityScreen';
+import ListScreen from './components/ListScreen';
 
 
 const NavComponent = () => {
@@ -35,6 +36,11 @@ const NavComponent = () => {
         key="activityScreen"
         title="Look at the Activity Icon!"
         component={ActivityScreen}
+      />
+      <Scene
+        key="listScreen"
+        title="Lists are fun"
+        component={ListScreen}
       />
     </Router>
   );

@@ -18,6 +18,9 @@ class NavigationScreen extends Component {
   onButtonPressActivity() {
     Actions.activityScreen();
   }
+  onButtonPressList() {
+    Actions.listScreen();
+  }
 
   render() {
     return (
@@ -40,6 +43,11 @@ class NavigationScreen extends Component {
         <Button
         onPress={this.onButtonPressActivity.bind(this)}
         title="ActivityIndicator"
+        color="white"
+        />
+        <Button
+        onPress={this.onButtonPressList.bind(this)}
+        title="ListScreen"
         color="white"
         />
         <Text style={styles.text}>Check back later for more</Text>
